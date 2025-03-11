@@ -1,0 +1,1 @@
+This notebook is a webscraping script to download the biographies of world leaders to see which ones lived abroad. This code was key for a research project investigating if studying abroad changes a leaders' propensity to engage in conflict.
